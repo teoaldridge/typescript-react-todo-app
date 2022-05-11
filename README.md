@@ -2,7 +2,8 @@ I did this exercise as part of my studies with React - The Complete Guide (incl 
 https://www.udemy.com/course/react-the-complete-guide-incl-redux/
 
 In this project I practiced and learned: 
-(in basics.ts)
+
+1) in basics.ts:
 - Typescript's Base Types
 - Working with Array and Object Types
 - Understanding Type Inference
@@ -10,7 +11,8 @@ In this project I practiced and learned:
 - Understanding Type Aliases
 - Functions and Function Types
 - Generics
-(the rest of the project)
+
+2) the rest of the project:
 - creating a React+ TypeScript project
 - working with Components and typescript
 - Adding data Model
